@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms-xwalk/main
+    url: https://author-p105252-e986529.adobeaemcloud.com/bin/franklin.delivery/mpoulalion2/boilerplateUE/main
     type: "markup"
-    suffix: ".md.html"
+    suffix: ".html"
